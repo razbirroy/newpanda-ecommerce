@@ -1,3 +1,74 @@
-h1{
-color: red;
+.categories{
+    margin-bottom: 100px;
 }
+
+.categories123{
+    margin-bottom: 100px;
+}
+
+
+.bg-color{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+
+h2{
+    color: red;
+}
+
+.button-color{
+    background-image: linear-gradient(to bottom,#FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.body-structure{
+    padding: 10px 30px;
+   
+}
+
+.bg-color1{
+   background-color: #FFA500;
+   color: white;
+}
+
+.bg-color2{
+   background-color: #DA70D6 ;
+   color: white;
+   
+  
+   
+}
+
+.bg-color3{
+   background-color: blue ;
+   color: white;
+}
+
+.bg-color1, .bg-color2, .bg-color3{
+    padding: 10px 10px;
+    
+    border-radius: 10px;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.height{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+}
+
